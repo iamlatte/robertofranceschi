@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 -->
 ### Hola 🤓👨‍💻
 
-💻 Currently working on my Master Thesis at Sony Stuttgart Technology Center
+💻 Currently working on my Master Thesis at Sony - Stuttgart Technology Center
 
 🎓 Soon to be grad with an MSc in Data Science and Engineering (Dec 2021)
 
 📊 AWS Machine Learning Scholarship program 2021 #UdacityAWSScholars
 
-🌱 Alumnus Huawei – Seeds for the Future 2020
-
 🔍 Fields of interests: Machine Learning (Perception, Computer Vision), FinTech and Sports
 
-
+📫 How to reach me: [linkedin](https://www.linkedin.com/in/roberto-franceschi/)
