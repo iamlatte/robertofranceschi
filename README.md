@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **robertofranceschi/robertofranceschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola 👋
-
+### Hola 🤓👨‍💻
 
 💻 Currently working on my Master Thesis at Sony Stuttgart Technology Center
 
@@ -27,4 +24,4 @@ Here are some ideas to get you started:
 
 🔍 Fields of interests: Machine Learning (Perception, Computer Vision), FinTech and Sports
 
-<p align="center">🤓👨‍💻</p>
+
