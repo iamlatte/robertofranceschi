@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 🎓 Soon to be grad with an MSc in Data Science and Engineering (Dec 2021)
 
-📊 AWS Machine Learning Scholarship program 2021 #UdacityAWSScholars
-
 🔍 Fields of interests: Machine Learning (Perception, Computer Vision), FinTech and Sports
 
 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/roberto-franceschi/)
