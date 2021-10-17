@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 🎓 Soon to be grad with an MSc in Data Science and Engineering (Dec 2021)
 
-🔍 Fields of interests: Machine Learning (Perception, Computer Vision), FinTech and Sports
+🔍 Fields of interests: Machine Learning (Computer Vision, Perception), FinTech and Sports
 
 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/roberto-franceschi/)
