@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 🔍 Fields of interests: Machine Learning (Perception, Computer Vision), FinTech and Sports
 
 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/roberto-franceschi/)
+
+[![Linkedin: Roberto Franceschi](https://img.shields.io/badge/-robertofranceschi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-franceschi/)]
