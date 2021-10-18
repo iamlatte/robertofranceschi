@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 📚 AWS Machine Learning scholarship by Udacity
 
-🔍 Fields of interests: Machine Learning (Computer Vision, Perception), FinTech and Sports
+🔍 Fields of interests: Machine Learning (Computer Vision, Perception), Sports (Athletics, F1) and FinTech
 
 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/roberto-franceschi/)
