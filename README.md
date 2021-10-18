@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola 🤓👨‍💻
+### Hola, I'm Roberto 🤓👨‍💻
 
 💻 Currently working on my Master Thesis at Sony - Stuttgart Technology Center
 
 🎓 Soon to be grad with an MSc in Data Science and Engineering (Dec 2021)
+
+📚 AWS Machine Learning scholarship by Udacity
 
 🔍 Fields of interests: Machine Learning (Computer Vision, Perception), FinTech and Sports
 
