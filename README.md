@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 Soon to be grad with an MSc in Data Science and Engineering (Dec 2021)
 
-🤓 Learning RL [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
+👨🏻‍💻 Learning RL 🤖 [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 
 🔍 Fields of interests: Deep Learning (Computer Vision, Perception), Sports (Athletics, F1) and FinTech
 
