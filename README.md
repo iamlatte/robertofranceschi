@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hola, I'm Roberto 🤓👨‍💻
 
-💻 Currently working on my Master Thesis at Sony - Stuttgart Technology Center
+🎓 Recently graduated at Politecnico di Torino in Data Science and Engineering
 
-🎓 Soon to be grad with an MSc in Data Science and Engineering (Dec 2021)
-
-👨🏻‍💻 Learning RL 🤖 [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
+👨🏻‍💻 Learning about RL 🤖 [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 
 🔍 Fields of interests: Deep Learning (Computer Vision, Perception), Sports (Athletics, F1) and FinTech
 
