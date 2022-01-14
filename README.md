@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola, I'm Roberto 🤓👨‍💻
+### Hi, I'm Roberto 🤓👨‍💻
 
 🎓 Recently graduated at Politecnico di Torino in MSc Data Science and Engineering
 
