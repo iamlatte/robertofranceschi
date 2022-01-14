@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hola, I'm Roberto 🤓👨‍💻
 
-🎓 Recently graduated at Politecnico di Torino in Data Science and Engineering
+🎓 Recently graduated at Politecnico di Torino in MSc Data Science and Engineering
 
 👨🏻‍💻 Learning about RL 🤖 [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 
