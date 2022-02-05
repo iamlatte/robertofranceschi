@@ -11,12 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+👨🏻‍💻 Learning about RL 🤖 [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
+
 -->
 ### Hi, I'm Roberto 🤓👨‍💻
 
 🎓 Recently graduated at Politecnico di Torino in MSc Data Science and Engineering
-
-👨🏻‍💻 Learning about RL 🤖 [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 
 🔍 Fields of interests: Deep Learning (Computer Vision, Perception), Sports (Athletics, F1) and FinTech
 
