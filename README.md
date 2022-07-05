@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Roberto 🤓👨‍💻
 
+🚙 I'm currently working at Sony on radar perception in complex automotive scenarios
+
 🎓 Recently graduated at Politecnico di Torino in MSc Data Science and Engineering
 
-🔍 Fields of interests: Deep Learning (Computer Vision, Perception), Sports (Athletics, F1) and FinTech
+🔍 Fields of interests: Deep Learning (Computer Vision, Perception), Sports (Athletics, F1), FinTech and Design
 
 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/roberto-franceschi/)
