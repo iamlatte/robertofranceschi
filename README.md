@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 👨🏻‍💻 Learning about RL 🤖 [dpmd](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 
 -->
-### Hi, I'm Roberto 🤓👨‍💻
+### Hi, I'm Roberto 👋
 
 🚙 I'm currently working at Sony on radar perception in complex automotive scenarios
 
