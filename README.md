@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Roberto 👋
 
 I'm currently working in Sony's R&D center conducting research in the field of perception using various sensors (such as radar, lidar, and cameras).
-I am open to learning about opportunities within Machine Learning and Computer Vision and -- more generally -- in AI / Data Science, and Software Engineering.
+I am open to learning about opportunities within Machine Learning and Computer Vision and – more generally – in AI / Data Science, and Software Engineering.
 
 🎓 MSc in Data Science and Engineering @ Politecnico di Torino
 
