@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Roberto 👋
 
-I'm currently working in Sony's R&D center conducting research in the field of perception using various sensors (such as radar, lidar, and cameras).
-I am open to learning about opportunities within Machine Learning and Computer Vision and – more generally – in AI / Data Science, and Software Engineering.
-
+🚀 I deal with Computer Vision and Robotics, working on cool multi-view 3D reconstruction projects.
+💡 3+ years of hands-on experience in Computer Vision and Machine Learning, specializing in multi-view 3D reconstruction (NeRF, gsplat). Extensive experience in perception, training neural nets for Radar, Lidar, and Camera object detection.
 🎓 MSc in Data Science and Engineering @ Politecnico di Torino
 
-🔍 Fields of interests: Deep Learning (Computer Vision, Perception), Sports (Athletics, F1), FinTech and startups
+🌐 Open to new opportunities in Machine Learning, Computer Vision, and - more broadly - AI and Software Engineering.
 
 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/roberto-franceschi/)
