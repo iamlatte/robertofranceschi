@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 💡 3+ years of hands-on experience in Computer Vision and Machine Learning, specializing in multi-view 3D reconstruction (NeRF, gsplat). Extensive experience in perception, training neural nets for Radar, Lidar, and Camera object detection.
 
-🎓 MSc in Data Science and Engineering @ Politecnico di Torino
+🎓 M.Sc. in Data Science and Engineering @ Politecnico di Torino
 
 🌐 Open to new opportunities in Machine Learning, Computer Vision, and - more broadly - AI and Software Engineering.
 
